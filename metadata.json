@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Pinball — 粉彩彈珠台",
+  "description": "清新粉彩風格的 2D 彈珠台手機遊戲，結合三段難度物理引擎、八音盒音樂、四款淺淡主題切換與單機排行榜。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
